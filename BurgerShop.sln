@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BurgerShop", "BurgerShop.vcxproj", "{2A2F0C2D-EC9F-4FB0-A531-23818753BB75}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BurgerShop_Installer", "..\BurgerShop_Installer\BurgerShop_Installer.vdproj", "{EEB79C91-10C2-44AE-80FA-8901DEDEEBD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{2A2F0C2D-EC9F-4FB0-A531-23818753BB75}.Release|x64.Build.0 = Release|x64
 		{2A2F0C2D-EC9F-4FB0-A531-23818753BB75}.Release|x86.ActiveCfg = Release|Win32
 		{2A2F0C2D-EC9F-4FB0-A531-23818753BB75}.Release|x86.Build.0 = Release|Win32
+		{EEB79C91-10C2-44AE-80FA-8901DEDEEBD1}.Debug|x64.ActiveCfg = Debug
+		{EEB79C91-10C2-44AE-80FA-8901DEDEEBD1}.Debug|x86.ActiveCfg = Debug
+		{EEB79C91-10C2-44AE-80FA-8901DEDEEBD1}.Release|x64.ActiveCfg = Release
+		{EEB79C91-10C2-44AE-80FA-8901DEDEEBD1}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

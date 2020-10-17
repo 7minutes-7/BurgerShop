@@ -57,7 +57,6 @@ public:
 		for (int i = 0; i < 5; i++) {
 			string filename = "Images/customer" + to_string(i + 1) + ".png";
 			customers[i] = Object::create(filename, scene, 640, 720);
-			cout << filename << endl;
 		}
 	}
 	bool served = false;

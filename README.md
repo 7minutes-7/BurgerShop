@@ -32,3 +32,8 @@
 영업시간이 종료되면 당일의 매출과 함께 최고 기록을 보여줍니다. <br />
 
 우리 모두 열심히 햄버거를 만들어보아요*^^*
+
+## 출처
+손님들 목소리 [animalese generator](https://github.com/equalo-official/animalese-generator)<br />
+플레이 배경음악: Frolic-Killer Tracks - Luciano Michelini
+

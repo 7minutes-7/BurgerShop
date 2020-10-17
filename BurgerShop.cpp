@@ -314,7 +314,7 @@ int main() {
 	//다시 시작
 	again->setOnMouseCallback([&](ObjectPtr object, int x, int y, MouseAction action)->bool {
 		title->enter();
-		game_timer->set(60.0f);
+		game_timer->set(120.0f);
 		reset(burger, next, kitchen, &food.type, &food.location, &food.pass);
 		customer.getCustomer(customer.customer_num)->locate(counter, 640, 720);
 		customer.customer_x = 640, customer.customer_y = 720;

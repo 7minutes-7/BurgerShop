@@ -2,6 +2,7 @@
 [bangtal library](https://cafe.naver.com/bangtal "bangtal cafe")를 사용해서 만든 게임입니다!
 
 ## 게임 방법
+배경음악과 효과음이 포함된 게임으로 소리를 키고 플레이 해주세요!
 ![BurgerShop](https://github.com/7minutes-7/BurgerShop/blob/master/Images/title.png)<br />
 당신은 갓 버거 가게를 차린 사장님입니다.<br />
 손님들의 주문대로 햄버거를 만들어야 돈을 받을 수 있겠죠?<br />
